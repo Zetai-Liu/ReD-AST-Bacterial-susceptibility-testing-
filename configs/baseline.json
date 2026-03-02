@@ -1,0 +1,6 @@
+{
+  "train_data": "data/sample/reduced_ast_sample.csv",
+  "model_output": "reports/model.json",
+  "report_output": "reports/metrics.txt",
+  "description": "Minimal baseline config for local smoke test"
+}
