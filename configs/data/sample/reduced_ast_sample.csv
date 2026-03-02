@@ -1,0 +1,3 @@
+sample_id,sensor_peak,sensor_auc,incubation_min,strain_group,label
+S001,0.82,1.35,90,A,1
+S002,0.21,0.48,90,A,0
